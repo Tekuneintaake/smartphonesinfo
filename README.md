@@ -13,7 +13,7 @@
 
 ### 🔗 Full Reviews & Buying Guides  
 For detailed analysis (gaming tests, durability ratings), visit:  
-[Your Smartphone Buying Guide](https://yourwebsite.com)  
+[Your Smartphone Buying Guide](https://www.smartphonesinfo.org)  
 
 ---
 
