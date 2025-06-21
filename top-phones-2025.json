@@ -1,0 +1,16 @@
+[
+  {
+    "model": "iPhone 15 Pro",
+    "chipset": "A17 Pro",
+    "antutu_score": 1850000,
+    "battery_hours": 22,
+    "camera_score": 144
+  },
+  {
+    "model": "Samsung Galaxy S24 Ultra",
+    "chipset": "Snapdragon 8 Gen 3",
+    "antutu_score": 2100000,
+    "battery_hours": 28,
+    "camera_score": 152
+  }
+]Add initial smartphone benchmark data
